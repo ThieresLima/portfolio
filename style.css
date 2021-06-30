@@ -118,7 +118,7 @@ html, body {
   width: 660px;
   text-align: center;
   height: 430px;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 .profile-text {
@@ -139,9 +139,9 @@ html, body {
 }
 
 .image-perfil {
-  width: 180px;
-  height: 180px;
-  border-radius: 100px;
+  width: 160px;
+  height: 160px;
+  border-radius: 100%;
   border: 3px solid #8356E5;
   /* box-shadow: 0 0 12px #8356E5; */
 }
